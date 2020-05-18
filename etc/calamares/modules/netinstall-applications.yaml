@@ -6,7 +6,7 @@
   packages:
     - cheese
     - font-manager-git
-    - galculator
+    - galculator					# Gnome Calculator not needed for Mate
     - flameshot
     - liferea
     - mediainfo
